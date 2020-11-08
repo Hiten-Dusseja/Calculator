@@ -1,0 +1,10 @@
+D:\C sharp\CalculatorPC\CalculatorPC\bin\Debug\CalculatorPC.exe.config
+D:\C sharp\CalculatorPC\CalculatorPC\bin\Debug\CalculatorPC.exe
+D:\C sharp\CalculatorPC\CalculatorPC\bin\Debug\CalculatorPC.pdb
+D:\C sharp\CalculatorPC\CalculatorPC\obj\Debug\CalculatorPC.csprojAssemblyReference.cache
+D:\C sharp\CalculatorPC\CalculatorPC\obj\Debug\CalculatorPC.Properties.Resources.resources
+D:\C sharp\CalculatorPC\CalculatorPC\obj\Debug\CalculatorPC.csproj.GenerateResource.cache
+D:\C sharp\CalculatorPC\CalculatorPC\obj\Debug\CalculatorPC.csproj.CoreCompileInputs.cache
+D:\C sharp\CalculatorPC\CalculatorPC\obj\Debug\CalculatorPC.exe
+D:\C sharp\CalculatorPC\CalculatorPC\obj\Debug\CalculatorPC.pdb
+D:\C sharp\CalculatorPC\CalculatorPC\obj\Debug\CalculatorPC.Form1.resources
